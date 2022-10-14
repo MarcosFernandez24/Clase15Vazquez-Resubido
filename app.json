@@ -1,0 +1,74 @@
+[
+{
+
+"id" : 1,
+"nombreJuego" : "Cyberpunk 2077",
+"precioJuego" :  24.99,
+"img" : "https://culturageek.com.ar/wp-content/uploads/2022/05/2077.jpg"
+
+},
+{
+
+    "id" : 2,
+    "nombreJuego" : "Assasins Creed Valhalla",
+    "precioJuego" :  29.99,
+    "img" : "https://culturageek.com.ar/wp-content/uploads/2020/11/Culturageek.com_.ar-Assassins-Creed-Valhalla-1.jpg"
+},
+{
+
+    "id" : 3,
+    "nombreJuego" : "God Of War 4",
+    "precioJuego" :  9.99,
+    "img" : "https://culturageek.com.ar/wp-content/uploads/2018/04/Culturageek.com_.ar-Review-God-of-War-1.jpg"
+},
+{
+
+    "id" : 4,
+    "nombreJuego" : "Bloodborne",
+    "precioJuego" :  9.99,
+    "img" : "https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/2682350-image%20%281%29.jpeg"
+},
+{
+
+    "id" : 5,
+    "nombreJuego" : "Metro Exodus",
+    "precioJuego" :  14.99,
+    "img" : "https://image.api.playstation.com/vulcan/img/rnd/202010/2814/jhNIE3yH1SNEe9CmxTVHAdme.png"
+},
+{
+
+    "id" : 6,
+    "nombreJuego" : "Dead By Daylight",
+    "precioJuego" :  29.99,
+    "img" : "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S1_2560x1440-a32581cf9948a9a2e24b2ff15c1577c7"
+},
+{
+
+    "id" : 7,
+    "nombreJuego" : "Left 4 Dead 2",
+    "precioJuego" :  4.99,
+    "img" : "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/07/22/16585065104722.jpg"
+},
+{
+
+    "id" : 8,
+    "nombreJuego" : "Resident Evil 4",
+    "precioJuego" :  9.99,
+    "img" : "https://www.residentevil.com/showcase/assets/images/thumb-re4-re.jpg"
+},
+{
+
+    "id" : 9,
+    "nombreJuego" : "Amnesia The Dark Descent",
+    "precioJuego" :  7.99,
+    "img" : "https://cdn1.epicgames.com/917551a8060244469eb4e6ab8a99cf24/offer/EGS_AmnesiaTheDarkDescent_FrictionalGames_S2-860x1148-473ca730cc2baaaeb9595f11bfc09fda.jpg"
+},
+{
+
+    "id" : 10,
+    "nombreJuego" : "The Witcher 3 Wild Hunt",
+    "precioJuego" : 59.99,
+    "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg?t=1659619680"
+}
+
+]
